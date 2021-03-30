@@ -1,0 +1,7 @@
+C:\Users\Filip\Desktop\Homework C#\SEDC.Homework.C-\SEDC.Homework.C-\bin\Debug\SEDC.Homework.C-.exe.config
+C:\Users\Filip\Desktop\Homework C#\SEDC.Homework.C-\SEDC.Homework.C-\bin\Debug\SEDC.Homework.C-.exe
+C:\Users\Filip\Desktop\Homework C#\SEDC.Homework.C-\SEDC.Homework.C-\bin\Debug\SEDC.Homework.C-.pdb
+C:\Users\Filip\Desktop\Homework C#\SEDC.Homework.C-\SEDC.Homework.C-\obj\Debug\SEDC.Homework.C-.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\Homework C#\SEDC.Homework.C-\SEDC.Homework.C-\obj\Debug\SEDC.Homework.C-.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Homework C#\SEDC.Homework.C-\SEDC.Homework.C-\obj\Debug\SEDC.Homework.C-.exe
+C:\Users\Filip\Desktop\Homework C#\SEDC.Homework.C-\SEDC.Homework.C-\obj\Debug\SEDC.Homework.C-.pdb
