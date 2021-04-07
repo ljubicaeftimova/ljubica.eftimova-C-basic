@@ -1,0 +1,16 @@
+C:\Users\Filip\Desktop\CSharp Homework\SEDC.Homework.Class03\SEDC.Homework.Class03\bin\Debug\net5.0\SEDC.Homework.Class03.exe
+C:\Users\Filip\Desktop\CSharp Homework\SEDC.Homework.Class03\SEDC.Homework.Class03\bin\Debug\net5.0\SEDC.Homework.Class03.deps.json
+C:\Users\Filip\Desktop\CSharp Homework\SEDC.Homework.Class03\SEDC.Homework.Class03\bin\Debug\net5.0\SEDC.Homework.Class03.runtimeconfig.json
+C:\Users\Filip\Desktop\CSharp Homework\SEDC.Homework.Class03\SEDC.Homework.Class03\bin\Debug\net5.0\SEDC.Homework.Class03.runtimeconfig.dev.json
+C:\Users\Filip\Desktop\CSharp Homework\SEDC.Homework.Class03\SEDC.Homework.Class03\bin\Debug\net5.0\SEDC.Homework.Class03.dll
+C:\Users\Filip\Desktop\CSharp Homework\SEDC.Homework.Class03\SEDC.Homework.Class03\bin\Debug\net5.0\ref\SEDC.Homework.Class03.dll
+C:\Users\Filip\Desktop\CSharp Homework\SEDC.Homework.Class03\SEDC.Homework.Class03\bin\Debug\net5.0\SEDC.Homework.Class03.pdb
+C:\Users\Filip\Desktop\CSharp Homework\SEDC.Homework.Class03\SEDC.Homework.Class03\obj\Debug\net5.0\SEDC.Homework.Class03.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\CSharp Homework\SEDC.Homework.Class03\SEDC.Homework.Class03\obj\Debug\net5.0\SEDC.Homework.Class03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\CSharp Homework\SEDC.Homework.Class03\SEDC.Homework.Class03\obj\Debug\net5.0\SEDC.Homework.Class03.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\CSharp Homework\SEDC.Homework.Class03\SEDC.Homework.Class03\obj\Debug\net5.0\SEDC.Homework.Class03.AssemblyInfo.cs
+C:\Users\Filip\Desktop\CSharp Homework\SEDC.Homework.Class03\SEDC.Homework.Class03\obj\Debug\net5.0\SEDC.Homework.Class03.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\CSharp Homework\SEDC.Homework.Class03\SEDC.Homework.Class03\obj\Debug\net5.0\SEDC.Homework.Class03.dll
+C:\Users\Filip\Desktop\CSharp Homework\SEDC.Homework.Class03\SEDC.Homework.Class03\obj\Debug\net5.0\ref\SEDC.Homework.Class03.dll
+C:\Users\Filip\Desktop\CSharp Homework\SEDC.Homework.Class03\SEDC.Homework.Class03\obj\Debug\net5.0\SEDC.Homework.Class03.pdb
+C:\Users\Filip\Desktop\CSharp Homework\SEDC.Homework.Class03\SEDC.Homework.Class03\obj\Debug\net5.0\SEDC.Homework.Class03.genruntimeconfig.cache
